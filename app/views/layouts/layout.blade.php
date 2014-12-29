@@ -7,7 +7,7 @@
     <meta name="description" content="Un producto de calidad de la familila Tradicion Chagoya el cual un domingo de plaza en la ciudad de Tlacolula de Matamoros por el año 1880, la que fuera esposa de Don Rómulo Chagoya encontró a un niño huérfano llorando en el atrio de la iglesia. Sin lograr conocer su procedencia decidió adoptarlo y bautizarlo con el nombre de ‘Jorge Chagoya Sánchez ’.">
     <Meta Name="Keywords" Content="mezcal, mezcal oaxaca, licores huatulco,mezcal huatulco, mezcales, el mejor mezcal">
     <link rel="icon" href="../../favicon.ico">
-    <title>Licores Huatulco</title>
+    <title>Mezcal Donaji</title>
     @include('layouts/css')
     @yield('css')
 </head>

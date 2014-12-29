@@ -2,7 +2,7 @@ $(document).ready(function() {
 
 	//var path = 'http://192.168.0.11/webtradicionlocal/public';
 	//var path = 'http://localhost/web/public';
-	var path = 'http://licoreshuatulco.com';
+	var path = 'http://mezcaldonaji.com';
 
 	var url = window.location.pathname;
 	var segmentos = url.split("/");
